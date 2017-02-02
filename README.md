@@ -1,2 +1,3 @@
 # hello-world
 learning to know github
+Still trying to figure out if this is useful or not...
